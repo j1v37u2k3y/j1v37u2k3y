@@ -1,9 +1,3 @@
----
-layout: page
-title: About
-permalink: /about
----
-
 <span style="color: #88df33">λ</span>  <span style="color: #34e2e2; font-weight: bold">\~</span> whoami
 {:style="font-size: 22px"}
 
