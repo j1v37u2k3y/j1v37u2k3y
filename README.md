@@ -12,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+  <summary>whoami</summary>
+  
+  [j1v37u2k3y](https://j1v37u2k3y.rocks/about)
+</details>
+
+<details>
+  <summary>- 🔭 I’m currently working on ...</summary>
+  
+  [Kringlecon](https://2020.kringlecon.com/invite)
+</details>
