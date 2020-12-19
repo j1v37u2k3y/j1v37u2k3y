@@ -38,7 +38,7 @@ d', ,ri.~~-~.ri , +h
 <details>
   <summary>whoami</summary>
   
-  [j1v37u2k3y](https://j1v37u2k3y.rocks/about)
+  [j1v37u2k3y](https://jiveturkey.rocks/about)
 </details>
 
 <details>
