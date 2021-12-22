@@ -46,8 +46,7 @@ d', ,ri.~~-~.ri , +h
   [Yubikey](https://www.yubico.com/)
 </details>
 
-<details>
-     <summary> Languages</summary>
+### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
@@ -55,21 +54,16 @@ d', ,ri.~~-~.ri , +h
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Lua](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=Csharp)
-</details>
 
-<details>
-     <summary> Technologies</summary>
+### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=fff)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
-</details>
 
-<details>
-     <summary> Stats</summary>
+### Stats
 
-     <img src="https://gpvc.arturio.dev/j1v37u2k3y"></p>
+<img src="https://gpvc.arturio.dev/j1v37u2k3y"/>
 [![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=j1v37u2k3y&hide=issues&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github.com/j1v37u2k3y)
-</details>
