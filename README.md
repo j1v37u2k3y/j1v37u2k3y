@@ -35,19 +35,19 @@ d', ,ri.~~-~.ri , +h
 ```
 
 <details>
-     <summary>### 📫 How to reach me: </summary>
+     <summary> 📫 How to reach me: </summary>
   
   [j1v37u2k3y](https://jiveturkey.rocks/about)
 </details>
 
 <details>
-     <summary>### 🔭 I’m currently working on ...</summary>
+     <summary> 🔭 I’m currently working on ...</summary>
   
   [Yubikey](https://www.yubico.com/)
 </details>
 
 <details>
-     <summary>### Languages</summary>
+     <summary> Languages</summary>
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
@@ -58,7 +58,7 @@ d', ,ri.~~-~.ri , +h
 </details>
 
 <details>
-     <summary>### Technologies</summary>
+     <summary> Technologies</summary>
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=fff)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=fff)
@@ -68,7 +68,7 @@ d', ,ri.~~-~.ri , +h
 </details>
 
 <details>
-     <summary>### Stats</summary>
+     <summary> Stats</summary>
 
      <img src="https://gpvc.arturio.dev/j1v37u2k3y"></p>
 [![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=j1v37u2k3y&hide=issues&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github.com/j1v37u2k3y)
