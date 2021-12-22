@@ -53,6 +53,7 @@ d', ,ri.~~-~.ri , +h
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![Symfony](https://img.shields.io/badge/-Symfony-000?&logo=Symfony)
 ![C#](https://img.shields.io/badge/-CSharp-000?&logo=Csharp)
 
 ### Technologies
