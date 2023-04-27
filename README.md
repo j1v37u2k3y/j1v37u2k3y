@@ -137,6 +137,9 @@ d', ,ri.~~-~.ri , +h
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/-Windows-0000ff?&logo=Windows&logoColor=fff)
+![KaliLinux](https://img.shields.io/badge/-KaliLinux-000?&logo=kalilinux&logoColor=fff)
+![IntellijIdea](https://img.shields.io/badge/-Itellijidea-000?&logo=intellijidea&logoColor=fff)
 
 ### Stats
 
