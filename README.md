@@ -116,7 +116,7 @@ d', ,ri.~~-~.ri , +h
 <details>
      <summary> 🔭 I’m currently working on ...</summary>
   
-  [Yubikey](https://www.yubico.com/)
+  [docker-django](https://hub.docker.com/repository/docker/tnorberg/docker-django)
 </details>
 
 ### Languages
@@ -132,6 +132,7 @@ d', ,ri.~~-~.ri , +h
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=fff)
+![GCP](https://img.shields.io/badge/-GCP-0000ff?&logo=Google&logoColor=fff)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-000?&logo=CircleCI&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira-Software&logoColor=0052CC)
