@@ -143,6 +143,6 @@ d', ,ri.~~-~.ri , +h
 
 ### Stats
 
-<img src="https://gpvc.arturio.dev/j1v37u2k3y"/>
+<!--<img src="https://gpvc.arturio.dev/j1v37u2k3y"/>-->
 
 [![GitHub-Stats](https://github-readme-stats.vercel.app/api?username=j1v37u2k3y&show_icons=true&theme=chartreuse-dark)](https://github.com/j1v37u2k3y)
