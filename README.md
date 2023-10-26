@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--```
+```
      .^. .  _
     /: ||`\/ \~  ,
   , [   &    / \ y'
@@ -32,8 +32,8 @@ d', ,ri.~~-~.ri , +h
 `oso' d`~..~`b 'sos`
      d`+ II +`b
      i_:_yi_;_y
-    --> 
-```
+```     
+<!--```
 
 
                                                                                                                                                                                                         
@@ -105,7 +105,7 @@ d', ,ri.~~-~.ri , +h
                                                                                                                                                                                                         
                                                                                                                                                                                                         
                                                                                                                                                                                                        
-```
+```-->
 
 <details>
      <summary> 📫 How to reach me: </summary>
