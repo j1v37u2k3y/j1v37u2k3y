@@ -1,11 +1,13 @@
 ### Hi there 👋
 <details>
      <summary> 📫 How to reach me: </summary>
+
   [j1v37u2k3y](https://jiveturkey.rocks/about)
 </details>
 
 <details>
      <summary> 🔭 I’m currently working on ...</summary>
+
   [HTB WingData](https://app.hackthebox.com/machines/WingData)
 </details>
 
