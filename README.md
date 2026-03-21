@@ -8,7 +8,7 @@
 <details>
      <summary> 🔭 I’m currently working on ...</summary>
 
-  [HTB WingData](https://app.hackthebox.com/machines/WingData)
+  [HTB MonitorsFour](https://app.hackthebox.com/machines/MonitorsFour)
 </details>
 
 ### Languages
